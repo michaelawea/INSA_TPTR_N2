@@ -53,6 +53,8 @@ Le coefficient de couplage normalisé est défini comme : **K = Uout / Uin × 10
 | 15 MHz | 15,28 | 14,72 | 3,33 |
 | 20 MHz | 19,44 | 18,33 | 4,11 |
 
+![实验结果曲线](output.png)
+
 **Figure 1 :** Courbe du coefficient de couplage normalisé en fonction de la fréquence pour différents modes de mise à la masse (voir output.png)
 
 ### **4.1 Caractéristiques en basse fréquence (7 kHz - 100 kHz)**
